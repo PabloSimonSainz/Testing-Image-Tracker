@@ -4,11 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Classes
+namespace Assets.Classes
 {
-    class User
+    public class Book
     {
         private int id;
-        private String name;
+        private String title;
+        private String urlImage;
+        private Object trailer; // TODO
     }
 }

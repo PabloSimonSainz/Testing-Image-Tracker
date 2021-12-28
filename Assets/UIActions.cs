@@ -16,6 +16,6 @@ public class UIActions : MonoBehaviour
     public void LogOut()
     {
         //user = null;
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(0, LoadSceneMode.Single);
     }
 }
