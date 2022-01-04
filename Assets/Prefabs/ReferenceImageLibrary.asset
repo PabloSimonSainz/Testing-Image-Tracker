@@ -16,12 +16,12 @@ MonoBehaviour:
   m_GuidHigh: 1898534368619508389
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5247575828841198172
-      m_GuidHigh: 8980650410139211191
+      m_GuidLow: 5186856230479878257
+      m_GuidHigh: 1132973161127383184
     m_SerializedTextureGuid:
-      m_GuidLow: 17052020808423062440
-      m_GuidHigh: 15698004960971341544
+      m_GuidLow: 15732313193211722672
+      m_GuidHigh: 15131057367040468570
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: Ketchup
+    m_Name: HarryPotterPiedraFilosofal
     m_Texture: {fileID: 0}
